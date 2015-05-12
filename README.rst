@@ -1,6 +1,8 @@
 octothorpe
 ==========
 
+.. image:: https://circleci.com/gh/zigg/octothorpe.png?circle-token=0616029981c0cbc2d40be2ab32f776f09c8c98cd
+
 octothorpe is an `Asterisk Manager Interface
 <https://wiki.asterisk.org/wiki/display/AST/The+Asterisk+Manager+TCP+IP+API>`__
 (AMI) library for the `Twisted <http://twistedmatrix.com/>`__ engine.
